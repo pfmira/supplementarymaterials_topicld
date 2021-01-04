@@ -1,7 +1,7 @@
 # supplementarymaterials_topicld
 Supplementary materials – Lexical Diversity in an L2 Spanish Learner Corpus: The Effect of Topic-Related Variables
 
-Appendix 1 – Qualitative view on everyday-life closeness effect (Vacation vs. Terrible)
+Appendix 1 – Qualitative view of everyday-life closeness effect on MTLD (Vacation vs. Terrible)
 
 SPA 1 – Vacation MTLD: 31.34 / Terrible MTLD: 22.17
 
@@ -18,7 +18,7 @@ SPA 23 – Vacation MTLD: 63.69 / Terrible MTLD: 52.65
 SPA 24 – Vacation MTLD: 77.32 / Terrible MTLD: 66.06
 
 
-Appendix 2 – Qualitative view on valence polarity effect (Famous vs. Special)
+Appendix 2 – Qualitative view of valence polarity effect on MTLD (Famous vs. Special)
 
 SPA 1 – Famous MTLD: / Special MTLD:
 
