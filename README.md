@@ -20,16 +20,16 @@ SPA 24 – Vacation MTLD: 77.32 / Terrible MTLD: 66.06
 
 Appendix 2 – Qualitative view of everyday-life closeness effect on MTLD (Famous vs. Special)
 
-SPA 1 – Famous MTLD: / Special MTLD:
+SPA 1 – Famous MTLD: 38 / Special MTLD: 27.13
 
-SPA 2 – Famous MTLD: / Special MTLD:
+SPA 2 – Famous MTLD: 42.77 / Special MTLD: 35.02
 
-SPA 3 – Famous MTLD: 84.64 / Special MTLD: 36.71
+SPA 3 – Famous MTLD: 49.84 / Special MTLD: 40.07
 
-SPA 21 – Famous MTLD: / Special MTLD:
+SPA 21 – Famous MTLD: 54.29 / Special MTLD: 42.88
 
-SPA 22 – Famous MTLD: / Special MTLD:
+SPA 22 – Famous MTLD: 56 / Special MTLD: 47.72
 
-SPA 23 – Famous MTLD: / Special MTLD:
+SPA 23 – Famous MTLD: 63.47 / Special MTLD: 51.15
 
-SPA 24 – Famous MTLD: / Special MTLD:
+SPA 24 – Famous MTLD: 64.3 / Special MTLD: 55.54
